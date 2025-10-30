@@ -1,3 +1,6 @@
+<img width="1406" height="1085" alt="image" src="https://github.com/user-attachments/assets/d1d7e9fa-1ebc-4288-84e0-bdb0a8f49d25" />
+
+
 # ER Dijagram Fakultet
 
 ```mermaid
